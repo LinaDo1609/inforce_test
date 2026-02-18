@@ -1,0 +1,35 @@
+.product-view{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+
+   &__right{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+   }
+
+   &__left{
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+   }
+
+
+    &__img{
+        width: 500px;
+        height: 500px;
+        object-fit: contain;
+    }
+
+    &__comment-box{
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+        padding: 5px 0;
+    }
+    
+
+
+}

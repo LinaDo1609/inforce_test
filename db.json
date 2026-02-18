@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg?semt=ais_hybrid&w=740&q=80",
+      "name": "Apple",
+      "count": 10,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://fruitique.in/cdn/shop/products/Mandarin-orange_1024x1024.jpg?v=1625786754",
+      "name": "Orange",
+      "count": 5,
+      "size": {
+        "width": 180,
+        "height": 180
+      },
+      "weight": "250g"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Tz6tPIR3j-m5mk_Rc52_w-IvhA-oAGAV2A&s",
+      "name": "kiwii",
+      "count": 9,
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "weight": "150g"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://exoticfruitbox.com/wp-content/uploads/2015/10/mango.jpg",
+      "name": "Mango",
+      "count": 3,
+      "size": {
+        "width": 250,
+        "height": 250
+      },
+      "weight": "400g"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://images.cdn.shoprite.com/detail/00000000044165_1",
+      "name": "Pear",
+      "count": 15,
+      "size": {
+        "width": 190,
+        "height": 190
+      },
+      "weight": "220g"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "description": "Very fresh and tasty",
+      "date": "10:00 18.02.2026"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "description": "Would buy again",
+      "date": "11:30 18.02.2026"
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "description": "Sweet and juicy",
+      "date": "12:15 18.02.2026"
+    },
+    {
+      "id": 4,
+      "productId": 3,
+      "description": "Perfect for smoothies",
+      "date": "13:40 18.02.2026"
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "description": "A bit expensive but worth it",
+      "date": "14:20 18.02.2026"
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "description": "Crisp and fresh",
+      "date": "15:05 18.02.2026"
+    },
+    {
+      "id": "e7ee",
+      "productId": 5,
+      "description": "паекеку",
+      "date": "18.02.2026, 18:13:56"
+    },
+    {
+      "id": "73cc",
+      "productId": 4,
+      "description": "fdfd",
+      "date": "18.02.2026, 18:29:17"
+    },
+    {
+      "id": "53bb",
+      "productId": 4,
+      "description": "fdfdf",
+      "date": "18.02.2026, 18:29:18"
+    },
+    {
+      "id": "eabe",
+      "productId": 4,
+      "description": "fdfdf",
+      "date": "18.02.2026, 18:29:18"
+    }
+  ]
+}
