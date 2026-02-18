@@ -6,9 +6,10 @@ Follow these steps to get the project up and running on your machine:
 ### 1. Clone the repository
 
 ``` bash 
-git clone []
+git clone [https://github.com/LinaDo1609/inforce_test.git](https://github.com/LinaDo1609/inforce_test.git)
 
-cd Biome_test
+
+cd inforce_test
 ```
 
 ### 2. Install dependencies
